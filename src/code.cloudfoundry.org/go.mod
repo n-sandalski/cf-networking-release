@@ -11,15 +11,15 @@ replace (
 )
 
 require (
-	code.cloudfoundry.org/bbs v0.0.0-20241016070240-e04c7c1be286
-	code.cloudfoundry.org/cf-networking-helpers v0.20.0
-	code.cloudfoundry.org/clock v1.16.0
-	code.cloudfoundry.org/debugserver v0.18.0
-	code.cloudfoundry.org/filelock v0.14.0
-	code.cloudfoundry.org/garden v0.0.0-20241018132925-991b03c78f6c
-	code.cloudfoundry.org/lager/v3 v3.10.0
-	code.cloudfoundry.org/locket v0.0.0-20241001203350-5e3ea80dea40
-	code.cloudfoundry.org/policy_client v0.23.0
+	code.cloudfoundry.org/bbs v0.0.0-20241026000759-2d81b9f6ff2a
+	code.cloudfoundry.org/cf-networking-helpers v0.22.0
+	code.cloudfoundry.org/clock v1.17.0
+	code.cloudfoundry.org/debugserver v0.20.0
+	code.cloudfoundry.org/filelock v0.15.0
+	code.cloudfoundry.org/garden v0.0.0-20241023020423-a21e43a17f84
+	code.cloudfoundry.org/lager/v3 v3.11.0
+	code.cloudfoundry.org/locket v0.0.0-20241026001853-f122fe672f9d
+	code.cloudfoundry.org/policy_client v0.24.0
 	code.cloudfoundry.org/tlsconfig v0.7.0
 	example-apps/spammer v0.0.0-00010101000000-000000000000
 	github.com/benjamintf1/unmarshalledmatchers v1.0.0
@@ -53,8 +53,8 @@ require (
 )
 
 require (
-	code.cloudfoundry.org/diego-logging-client v0.24.0 // indirect
-	code.cloudfoundry.org/durationjson v0.14.0 // indirect
+	code.cloudfoundry.org/diego-logging-client v0.25.0 // indirect
+	code.cloudfoundry.org/durationjson v0.15.0 // indirect
 	code.cloudfoundry.org/go-diodes v0.0.0-20241007161556-ec30366c7912 // indirect
 	code.cloudfoundry.org/go-loggregator/v9 v9.2.1 // indirect
 	code.cloudfoundry.org/inigo v0.0.0-20230228171622-18bab030e953 // indirect
@@ -67,7 +67,7 @@ require (
 	github.com/go-test/deep v1.1.0 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
-	github.com/google/pprof v0.0.0-20241017200806-017d972448fc // indirect
+	github.com/google/pprof v0.0.0-20241023014458-598669927662 // indirect
 	github.com/gorilla/context v1.1.1 // indirect
 	github.com/gorilla/mux v1.6.2 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
@@ -91,7 +91,7 @@ require (
 	golang.org/x/text v0.19.0 // indirect
 	golang.org/x/time v0.7.0 // indirect
 	golang.org/x/tools v0.26.0 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20241015192408-796eee8c2d53 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20241021214115-324edc3d5d38 // indirect
 	google.golang.org/grpc v1.67.1 // indirect
 	google.golang.org/protobuf v1.35.1 // indirect
 	gopkg.in/gorp.v1 v1.7.2 // indirect
