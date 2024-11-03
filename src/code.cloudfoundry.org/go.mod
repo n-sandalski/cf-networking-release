@@ -11,21 +11,21 @@ replace (
 )
 
 require (
-	code.cloudfoundry.org/bbs v0.0.0-20241026000759-2d81b9f6ff2a
-	code.cloudfoundry.org/cf-networking-helpers v0.22.0
-	code.cloudfoundry.org/clock v1.17.0
-	code.cloudfoundry.org/debugserver v0.20.0
-	code.cloudfoundry.org/filelock v0.15.0
-	code.cloudfoundry.org/garden v0.0.0-20241023020423-a21e43a17f84
-	code.cloudfoundry.org/lager/v3 v3.11.0
-	code.cloudfoundry.org/locket v0.0.0-20241026001853-f122fe672f9d
-	code.cloudfoundry.org/policy_client v0.24.0
-	code.cloudfoundry.org/tlsconfig v0.7.0
+	code.cloudfoundry.org/bbs v0.0.0-20241029001107-2bebce403fed
+	code.cloudfoundry.org/cf-networking-helpers v0.24.0
+	code.cloudfoundry.org/clock v1.19.0
+	code.cloudfoundry.org/debugserver v0.22.0
+	code.cloudfoundry.org/filelock v0.17.0
+	code.cloudfoundry.org/garden v0.0.0-20241030020456-74829d0a2201
+	code.cloudfoundry.org/lager/v3 v3.13.0
+	code.cloudfoundry.org/locket v0.0.0-20241029002438-07ee8ada566a
+	code.cloudfoundry.org/policy_client v0.26.0
+	code.cloudfoundry.org/tlsconfig v0.8.0
 	example-apps/spammer v0.0.0-00010101000000-000000000000
 	github.com/benjamintf1/unmarshalledmatchers v1.0.0
 	github.com/cf-container-networking/sql-migrate v0.0.0-20191108002617-83f2bdabdc5d
 	github.com/cloudfoundry-community/go-uaa v0.3.3
-	github.com/cloudfoundry/cf-test-helpers/v2 v2.9.0
+	github.com/cloudfoundry/cf-test-helpers/v2 v2.10.0
 	github.com/cloudfoundry/dropsonde v1.1.0
 	github.com/containernetworking/cni v1.2.3
 	github.com/containernetworking/plugins v1.6.0
@@ -37,8 +37,8 @@ require (
 	github.com/nats-io/nats-server/v2 v2.10.22
 	github.com/nats-io/nats-top v0.6.2
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d
-	github.com/onsi/ginkgo/v2 v2.20.2
-	github.com/onsi/gomega v1.34.2
+	github.com/onsi/ginkgo/v2 v2.21.0
+	github.com/onsi/gomega v1.35.1
 	github.com/pivotal-cf-experimental/gomegamatchers v0.0.0-20180326192815-e36bfcc98c3a
 	github.com/pivotal-cf-experimental/rainmaker v0.0.0-20160401052143-d533d01b7c52
 	github.com/pivotal-cf/paraphernalia v0.0.0-20180203224945-a64ae2051c20
@@ -53,8 +53,8 @@ require (
 )
 
 require (
-	code.cloudfoundry.org/diego-logging-client v0.25.0 // indirect
-	code.cloudfoundry.org/durationjson v0.15.0 // indirect
+	code.cloudfoundry.org/diego-logging-client v0.27.0 // indirect
+	code.cloudfoundry.org/durationjson v0.17.0 // indirect
 	code.cloudfoundry.org/go-diodes v0.0.0-20241007161556-ec30366c7912 // indirect
 	code.cloudfoundry.org/go-loggregator/v9 v9.2.1 // indirect
 	code.cloudfoundry.org/inigo v0.0.0-20230228171622-18bab030e953 // indirect
@@ -67,7 +67,7 @@ require (
 	github.com/go-test/deep v1.1.0 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
-	github.com/google/pprof v0.0.0-20241023014458-598669927662 // indirect
+	github.com/google/pprof v0.0.0-20241101162523-b92577c0c142 // indirect
 	github.com/gorilla/context v1.1.1 // indirect
 	github.com/gorilla/mux v1.6.2 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
