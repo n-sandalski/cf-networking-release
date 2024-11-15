@@ -37,6 +37,17 @@ under `Networking` area.
 -   [3rd Party Plugin Development for Container
     Networking](./docs/11-3rd-party.md)
 
+# Contributing
+
+See the [Contributing.md](./.github/CONTRIBUTING.md) for more
+information on how to contribute.
+
+# Working Group Charter
+
+This repository is maintained by [App Runtime
+Platform](https://github.com/cloudfoundry/community/blob/main/toc/working-groups/app-runtime-platform.md)
+under `Networking` area.
+
 > \[!IMPORTANT\]
 >
 > Content in this file is managed by the [CI task
